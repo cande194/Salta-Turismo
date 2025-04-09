@@ -73,26 +73,26 @@ img{
     box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     border-radius: 20px;
     padding: 15px;
-    background-color: rgba(255, 238, 238, 0.781);
+    background-color: rgba(255, 238, 238, 0.676);
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 37px;
 }
 .contenedor-boton {
     text-align: center; 
     margin-top: 20px; 
 }
 .boton-ver-mas {
-    background-color: rgba(82, 12, 26, 0.941);
+    background-color: rgba(97, 14, 31, 0.929);
     color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    font-size: 17px;
+    font-size: 18px;
     cursor: pointer;
     transition: background-color 0.3s ease;
 }
 .boton-ver-mas:hover {
-    background-color: rgb(148, 33, 56); 
+    background-color: rgb(148, 33, 56);; 
 }
 .menu-lateral{
     width: 20%;
@@ -105,20 +105,19 @@ img{
     margin-bottom: 70px;
 }
 .frases-viajeras {
-    position: absolute;
-    right: 10px; 
-    top: 1700px; 
-    width: 19%; 
-    background-color: rgba(148, 33, 56, 0.1); 
+    margin-top: 300px;
+    margin-left: 50px;
+    background-color: rgba(237, 172, 185, 0.226);
     line-height: 1.6;
-    padding: 15px;
+    padding: 30px;
     font-style: italic;
     text-align: center;
-    color: rgb(35, 36, 36);
+    color: rgb(0, 0, 0);
+    border-radius: 25px;
 }
 .frases-viajeras h3 {
-    font-size: 25px;
-    margin-bottom: 30px;
+    font-size: 23px;
+    margin-bottom: 20px;
     color: rgb(148, 33, 56);
 }
 footer {
