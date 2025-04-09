@@ -44,6 +44,9 @@ nav a{
     padding: 10px;
     width: 150px;
 }
+nav li:hover{
+    background-color: rgb(148, 33, 56);
+}
 img{
     width: 200px;
     height: 200px;
@@ -73,7 +76,7 @@ img{
     margin-top: 20px; 
 }
 .boton-ver-mas {
-    background-color: #8B0000;
+    background-color: rgba(82, 12, 26, 0.941);
     color: white;
     padding: 10px 20px;
     border: none;
@@ -83,7 +86,7 @@ img{
     transition: background-color 0.3s ease;
 }
 .boton-ver-mas:hover {
-    background-color: #a52a2a; 
+    background-color: rgb(148, 33, 56); 
 }
 .menu-lateral{
     width: 20%;
